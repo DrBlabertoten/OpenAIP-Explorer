@@ -31,9 +31,9 @@ Comparison: Use the browser to find 3 competitors and create a "Pains vs. Reliev
 Significance: De-risking the technical core (SAAP - Stabilize & Assess).
 
 🤖 AG Execution (Phase 3):
-Coding: Build the "Minimal Functional Logic" (e.g., the Python script to pull VATSIM API data) before any UI work.
+Coding: Build the "Minimal Functional Logic" for indexing chart links and characterizing them (e.g., defining the JSON metadata structure and directory mapping) before any UI work.
 
-Assessment: If the API fails, AG must suggest 2 alternative data sources immediately.
+Assessment: Ensure the indexer can easily accommodate new SUPs (Supplements) for each new AIRAC cycle without breaking core functionality.
 
 ### Phase 4: Design (Blueprint) – Structuring
 Significance: Information Architecture and User Flow.

@@ -25,11 +25,12 @@ The project is currently in the fundamental planning and ideation phase.
 
 - [x] **Phase 1: Ideation** - Establish the foundation and research "Gaps" (Active)
 - [ ] **Phase 2: Value Proposition** - Define the unique hook and competitor comparisons
-- [ ] **Phase 3: Prototype (POC)** - Test feasibility with minimal functional logic (VATSIM API integration)
+- [ ] **Phase 3: Prototype (POC)** - Test feasibility with minimal functional logic
 - [ ] **Phase 4: Design (Blueprint)** - Information architecture, user flows, and `CONTRIBUTORS.md`
 - [ ] **Phase 5: Build** - Turn vision into reality with engineering discipline
 - [ ] **Phase 6: MVP Launch** - Test the market and deploy to staging/production
 - [ ] **Phase 7: Growth & Maintenance** - Scale and iterate based on task success metrics
+- [ ] **Community-Driven Link Submission** - Enable users to log in and submit links for specific airport charts to crowdsource the chart database.
 
 ## Getting Started
 
